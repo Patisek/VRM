@@ -40,7 +40,7 @@ def Fabric(points,len,want,eps):
                 
     return points
 
-#uncomment to try (something what would come from some main function)
+#(something what would come from some main function)
 
 p_start=np.array([[0,0],[1,0],[2,0],[3,0]])
 num_of_joi = 4
