@@ -1,0 +1,15 @@
+in main function of controller 1 u can set what colour you want to pack.
+
+in main function of controller 1 u can also set all_in_one and batsy true or false this leads to 3 modes:
+1 both false
+	it just packs selected colour
+
+2 batsy true
+	adds batman badge and puts the box on pedestal
+
+3 all_in_one true
+	packs all colours in order orange, blue, red, after each color is packed it auto resets enviroment
+
+(both true => sets mode 3)
+
+
