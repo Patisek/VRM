@@ -1,0 +1,1 @@
+.exe znázorňuje pouze všechny možné pohyby robota které lze pomocí programu dosáhnout skutečné poskládání rozestavěné kostky nelze kvů možnostem vazeb objektů dosáhnout přesto, že v reálném světe je robot schopen kostičku 2x2 složit.
